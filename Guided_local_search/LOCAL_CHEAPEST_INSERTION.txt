@@ -1,0 +1,278 @@
+e:\\Kuliah\\SM7\\SO\\UTS\\GUIDED_LOCAL_SEARCH\\Sukses\\LOCAL_CHEAPEST_INSERTION.py 
+Jalur Kendaraan Ke - 0:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 27 Time(5,5) -> 27 Time(5,5)
+ 27 Load(16) -> 1 Time(15,15) -> 1 Time(15,15)
+ 1 Load(26) -> 9 Time(32,32) -> 9 Time(32,32)
+ 9 Load(42) -> 65 Time(50,50) -> 65 Time(50,50)
+ 65 Load(62) -> 51 Time(73,73) -> 51 Time(73,73)
+ 51 Load(72) -> Waktu perjalanan : 73min
+ 0 Load(72)
+Beban muatan kendaraan: 72
+Jumlah keseluruhan waktu perjalanan: 0min
+
+Jalur Kendaraan Ke - 1:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 52 Time(11,11) -> 52 Time(11,11)
+ 52 Load(9) -> 7 Time(20,20) -> 7 Time(20,20)
+ 7 Load(14) -> 19 Time(31,31) -> 19 Time(31,31)
+ 19 Load(31) -> 11 Time(38,38) -> 11 Time(38,38)
+ 11 Load(43) -> 64 Time(51,51) -> 64 Time(51,51)
+ 64 Load(52) -> 63 Time(65,65) -> 63 Time(65,65)
+ 63 Load(62) -> 10 Time(74,74) -> 10 Time(74,74)
+ 10 Load(78) -> 31 Time(82,82) -> 31 Time(82,82)
+ 31 Load(105) -> Waktu perjalanan : 82min
+ 0 Load(105)
+Beban muatan kendaraan: 105
+Jumlah keseluruhan waktu perjalanan: 73min
+
+Jalur Kendaraan Ke - 2:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 54 Time(22,22) -> 54 Time(22,22)
+ 54 Load(18) -> 55 Time(30,30) -> 55 Time(30,30)
+ 55 Load(20) -> 25 Time(33,33) -> 25 Time(33,33)
+ 25 Load(26) -> 39 Time(42,42) -> 39 Time(42,42)
+ 39 Load(57) -> 67 Time(51,51) -> 67 Time(51,51)
+ 67 Load(82) -> 23 Time(63,63) -> 23 Time(63,63)
+ 23 Load(111) -> 56 Time(70,70) -> 56 Time(70,70)
+ 56 Load(117) -> 72 Time(77,77) -> 72 Time(77,77)
+ 72 Load(142) -> 21 Time(81,81) -> 21 Time(81,81)
+ 21 Load(153) -> 53 Time(94,94) -> 53 Time(94,94)
+ 53 Load(167) -> Waktu perjalanan : 94min
+ 0 Load(167)
+Beban muatan kendaraan: 167
+Jumlah keseluruhan waktu perjalanan: 155min
+
+Jalur Kendaraan Ke - 3:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 82 Time(23,23) -> 82 Time(23,23)
+ 82 Load(16) -> 48 Time(28,28) -> 48 Time(28,28)
+ 48 Load(52) -> 47 Time(34,34) -> 47 Time(34,34)
+ 47 Load(79) -> 49 Time(46,46) -> 49 Time(46,46)
+ 49 Load(109) -> 36 Time(54,54) -> 36 Time(54,54)
+ 36 Load(114) -> 46 Time(66,66) -> 46 Time(66,66)
+ 46 Load(115) -> 8 Time(75,75) -> 8 Time(75,75)
+ 8 Load(124) -> 18 Time(85,85) -> 18 Time(85,85)
+ 18 Load(136) -> Waktu perjalanan : 85min
+ 0 Load(136)
+Beban muatan kendaraan: 136
+Jumlah keseluruhan waktu perjalanan: 249min
+
+Jalur Kendaraan Ke - 4:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 89 Time(9,9) -> 89 Time(9,9)
+ 89 Load(15) -> 60 Time(18,18) -> 60 Time(18,18)
+ 60 Load(18) -> 83 Time(22,22) -> 83 Time(22,22)
+ 83 Load(29) -> 45 Time(30,30) -> 45 Time(30,30)
+ 45 Load(45) -> 17 Time(38,38) -> 17 Time(38,38)
+ 17 Load(47) -> 84 Time(44,44) -> 84 Time(44,44)
+ 84 Load(54) -> 5 Time(48,48) -> 5 Time(48,48)
+ 5 Load(80) -> 85 Time(56,56) -> 85 Time(56,56)
+ 85 Load(121) -> 93 Time(58,58) -> 93 Time(58,58)
+ 93 Load(143) -> 99 Time(60,60) -> 99 Time(60,60)
+ 99 Load(152) -> 96 Time(62,62) -> 96 Time(62,62)
+ 96 Load(163) -> 6 Time(66,66) -> 6 Time(66,66)
+ 6 Load(166) -> Waktu perjalanan : 66min
+ 0 Load(166)
+Beban muatan kendaraan: 166
+Jumlah keseluruhan waktu perjalanan: 334min
+
+Jalur Kendaraan Ke - 5:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 50 Time(16,16) -> 50 Time(16,16)
+ 50 Load(13) -> 33 Time(23,23) -> 33 Time(23,23)
+ 33 Load(24) -> 81 Time(25,25) -> 81 Time(25,25)
+ 81 Load(50) -> 34 Time(35,35) -> 34 Time(35,35)
+ 34 Load(64) -> 35 Time(45,45) -> 35 Time(45,45)
+ 35 Load(72) -> 71 Time(51,51) -> 71 Time(51,51)
+ 71 Load(87) -> 66 Time(60,60) -> 66 Time(60,60)
+ 66 Load(112) -> 20 Time(68,68) -> 20 Time(68,68)
+ 20 Load(121) -> 30 Time(75,75) -> 30 Time(75,75)
+ 30 Load(142) -> 69 Time(88,88) -> 69 Time(88,88)
+ 69 Load(148) -> Waktu perjalanan : 88min
+ 0 Load(148)
+Beban muatan kendaraan: 148
+Jumlah keseluruhan waktu perjalanan: 400min
+
+Jalur Kendaraan Ke - 6:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 12 Time(15,15) -> 12 Time(15,15)
+ 12 Load(19) -> 80 Time(21,21) -> 80 Time(21,21)
+ 80 Load(25) -> 68 Time(23,23) -> 68 Time(23,23)
+ 68 Load(61) -> 24 Time(32,32) -> 24 Time(32,32)
+ 24 Load(64) -> 29 Time(39,39) -> 29 Time(39,39)
+ 29 Load(73) -> 78 Time(49,49) -> 78 Time(49,49)
+ 78 Load(76) -> 79 Time(54,54) -> 79 Time(54,54)
+ 79 Load(99) -> 3 Time(57,57) -> 3 Time(57,57)
+ 3 Load(112) -> 77 Time(59,59) -> 77 Time(59,59)
+ 77 Load(126) -> 76 Time(63,63) -> 76 Time(63,63)
+ 76 Load(139) -> 28 Time(72,72) -> 28 Time(72,72)
+ 28 Load(155) -> Waktu perjalanan : 72min
+ 0 Load(155)
+Beban muatan kendaraan: 155
+Jumlah keseluruhan waktu perjalanan: 488min
+
+Jalur Kendaraan Ke - 7:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 88 Time(19,19) -> 88 Time(19,19)
+ 88 Load(9) -> 62 Time(25,25) -> 62 Time(25,25)
+ 62 Load(28) -> 90 Time(36,36) -> 90 Time(36,36)
+ 90 Load(31) -> 32 Time(40,40) -> 32 Time(40,40)
+ 32 Load(54) -> 70 Time(53,53) -> 70 Time(53,53)
+ 70 Load(59) -> Waktu perjalanan : 53min
+ 0 Load(59)
+Beban muatan kendaraan: 59
+Jumlah keseluruhan waktu perjalanan: 560min
+
+Jalur Kendaraan Ke - 8:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 13 Time(11,11) -> 13 Time(11,11)
+ 13 Load(23) -> 87 Time(18,18) -> 87 Time(18,18)
+ 87 Load(49) -> 42 Time(25,25) -> 42 Time(25,25)
+ 42 Load(54) -> 38 Time(45,45) -> 38 Time(45,45)
+ 38 Load(70) -> 86 Time(58,58) -> 86 Time(58,58)
+ 86 Load(105) -> 16 Time(64,64) -> 16 Time(64,64)
+ 16 Load(124) -> 61 Time(68,68) -> 61 Time(68,68)
+ 61 Load(137) -> 59 Time(77,77) -> 59 Time(77,77)
+ 59 Load(165) -> 94 Time(82,82) -> 94 Time(82,82)
+ 94 Load(192) -> Waktu perjalanan : 82min
+ 0 Load(192)
+Beban muatan kendaraan: 192
+Jumlah keseluruhan waktu perjalanan: 613min
+
+Jalur Kendaraan Ke - 9:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 58 Time(9,9) -> 58 Time(9,9)
+ 58 Load(18) -> 2 Time(18,18) -> 2 Time(18,18)
+ 2 Load(25) -> 57 Time(23,23) -> 57 Time(23,23)
+ 57 Load(32) -> 15 Time(30,30) -> 15 Time(30,30)
+ 15 Load(40) -> 43 Time(37,37) -> 43 Time(37,37)
+ 43 Load(47) -> 14 Time(47,47) -> 14 Time(47,47)
+ 14 Load(67) -> 44 Time(52,52) -> 44 Time(52,52)
+ 44 Load(85) -> 91 Time(58,58) -> 91 Time(58,58)
+ 91 Load(86) -> 100 Time(61,61) -> 100 Time(61,61)
+ 100 Load(103) -> 98 Time(64,64) -> 98 Time(64,64)
+ 98 Load(113) -> 37 Time(65,65) -> 37 Time(65,65)
+ 37 Load(121) -> 92 Time(67,67) -> 92 Time(67,67)
+ 92 Load(123) -> 97 Time(70,70) -> 97 Time(70,70)
+ 97 Load(135) -> 95 Time(73,73) -> 95 Time(73,73)
+ 95 Load(155) -> Waktu perjalanan : 73min
+ 0 Load(155)
+Beban muatan kendaraan: 155
+Jumlah keseluruhan waktu perjalanan: 695min
+
+Jalur Kendaraan Ke - 10:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> 40 Time(11,11) -> 40 Time(11,11)
+ 40 Load(9) -> 73 Time(19,19) -> 73 Time(19,19)
+ 73 Load(18) -> 74 Time(23,23) -> 74 Time(23,23)
+ 74 Load(26) -> 41 Time(30,30) -> 41 Time(30,30)
+ 41 Load(31) -> 22 Time(34,34) -> 22 Time(34,34)
+ 22 Load(49) -> 75 Time(38,38) -> 75 Time(38,38)
+ 75 Load(67) -> 4 Time(48,48) -> 4 Time(48,48)
+ 4 Load(86) -> 26 Time(62,62) -> 26 Time(62,62)
+ 26 Load(103) -> Waktu perjalanan : 62min
+ 0 Load(103)
+Beban muatan kendaraan: 103
+Jumlah keseluruhan waktu perjalanan: 768min
+
+Jalur Kendaraan Ke - 11:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 12:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 13:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 14:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 15:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 16:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 17:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 18:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 19:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 20:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 21:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 22:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 23:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+Jalur Kendaraan Ke - 24:
+0 Time(0,0) -> 0 Time(0,0)
+ 0 Load(0) -> Waktu perjalanan : 0min
+ 0 Load(0)
+Beban muatan kendaraan: 0
+Jumlah keseluruhan waktu perjalanan: 830min
+
+total waktu perjalanan kendaraan: 830min
+total semua muatan perjalanan: 1458
