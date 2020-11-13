@@ -1,2 +1,1 @@
-# solomon R106
-# Local Search Options + First Solution Strategy
+# With local search options + first solution strategy
